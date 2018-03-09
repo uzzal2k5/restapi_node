@@ -1,4 +1,3 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
+A simple nodejs function create to connect and collect data from https api
