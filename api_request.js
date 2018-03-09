@@ -49,7 +49,7 @@ function executionTime(){
 }
 
 
-url = 'https://shuni.tel/api/v1/shuni/post/'
+url = 'https://myweb.com/api/v1/myweb/post/'
 //console.log(getApiHttp(url));
 var data = getApiRequest(url);
 console.log(data)
