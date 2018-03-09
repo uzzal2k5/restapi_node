@@ -2,3 +2,10 @@ apt install nodejs-legacy
 npm install request
 npm install https
 node -v
+wget https://raw.githubusercontent.com/creationix/nvm/v0.25.0/install.sh
+source ~/.bashrc
+nvm install v9.4.0
+npm i -g npm
+npm install request https
+
+pip3 install naked
