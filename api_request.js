@@ -49,7 +49,7 @@ function executionTime(){
 }
 
 
-url = 'https://myweb.com/api/v1/myweb/post/'
+url = 'https://exampleweb.com/api/v1/exampleweb/post/'
 //console.log(getApiHttp(url));
 var data = getApiRequest(url);
 console.log(data)
