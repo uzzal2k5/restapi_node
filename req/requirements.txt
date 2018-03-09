@@ -1,3 +1,4 @@
 apt install nodejs-legacy
 npm install request
+npm install https
 node -v
